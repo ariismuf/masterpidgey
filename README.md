@@ -3,7 +3,7 @@
 ## Creación del repositorio
 >Crearemos una carpeta para tener todos los archivos y las imagenes recogidas en un sitios, despues de eso en el Git Bash añadiremos los siguientes comandos:
 
-![image](https://github.com/ariismuf/masterpidgey/blob/main/img/1.png)
+![image](img\1.png)
 ![image](img\2.png)
 ***
 ## Clonación del repositorio
@@ -32,3 +32,14 @@
 
 ![image](img\7.png)
 ![image](img\8.png)
+***
+
+## Añadir dichero 1.txt
+
+>en esta ocasión subiremos el siguiente archivo
+
+![image](img\9.png)
+![image](img\10.png)
+![image](img\11.png)
+***
+
