@@ -34,7 +34,7 @@
 ![image](img\8.png)
 ***
 
-## Añadir dichero 1.txt
+## Añadir Fichero 1.txt
 
 >en esta ocasión subiremos el siguiente archivo
 
@@ -43,3 +43,8 @@
 ![image](img\11.png)
 ***
 
+## Crear un tag v0.1
+>Creamos el git tag con el siguiente comando y añadimos un comando en el vim
+
+![image](img\12.png)
+***
