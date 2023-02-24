@@ -48,3 +48,43 @@
 
 ![image](img\12.png)
 ***
+## Subir el tag v0.1
+
+![image](img\13.png)
+***
+
+## Cuenta de Github
+>Añadir foto de perfil
+
+![image](img\14.png)
+***
+
+## Uso social de gitHub
+>Seguir a los compañeros de clase 
+
+![image](img\15.png)
+
+>Añadir una estrella al repositorio de masterpidgey
+![image](img\16.png)
+***
+
+## Crear una tabla
+
+|NOMBRE|GITHUB|
+|------|------|
+|Tomas |https://github.com/tomascarrascoo|
+|Marc  |https://github.com/maaarcmorla|
+|Carlos|https://github.com/CharlyMech|
+
+## Colaboradores
+![image](img\17.png)
+***
+# Segunda parte
+
+## Crear una rama V0.2
+![image](img\18.png)
+***
+
+## Añadir fichero 2.txt
+![image](img\19.png)
+***
