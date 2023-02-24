@@ -88,3 +88,7 @@
 ## Añadir fichero 2.txt
 ![image](img\19.png)
 ***
+
+## Crear rama remota
+![image](img\20.png)
+***
